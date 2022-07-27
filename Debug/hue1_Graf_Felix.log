@@ -1,8 +1,0 @@
-﻿  S2010307062_Graf_1.cpp
-C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\S2010307062_Graf_1.cpp(187,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\S2010307062_Graf_1.cpp(187,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\S2010307062_Graf_1.cpp(210,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\S2010307062_Graf_1.cpp(210,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\S2010307062_Graf_1.cpp(319,15): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
-C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\S2010307062_Graf_1.cpp(318,15): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
-  hue1_Graf_Felix.vcxproj -> C:\Users\graff\OneDrive - FH OOe\studium\sem4\CG\hausuebungen\hue1_rep\hue1_Graf_Felix\Debug\hue1_Graf_Felix.exe
